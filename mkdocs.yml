@@ -18,19 +18,13 @@ nav:
   - Inicio: index.md
   - Unidad 1: unidad1.md
   - Unidad 2: unidad2.md
- # - 📥 Descargar PDF: pdf/pruebas4.pdf
-
+ 
 # Plugins  
 plugins:
   - with-pdf:
       output_path: pdf/pruebas5.pdf
       cover: false
-      cover_page: portada.md       # Usamos portada personalizada
-      author: "Begoña Paterna"
-      toc_title: "Pruebas5"
-      exclude_pages:
-        - index.md
-
+  
 # Extensiones Markdown
 markdown_extensions:
   - admonition
