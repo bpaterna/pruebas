@@ -38,5 +38,4 @@ plugins:
       exclude_pages:
         - ^index.html$
         - ^unidad2.html$
-extra_jinja:
-  fecha_generacion: ""
+
