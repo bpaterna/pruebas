@@ -1,5 +1,6 @@
 site_name: Pruebas
 site_url: https://bpaterna.github.io/pruebas/
+site_author: Begoña Paterna
 theme:
   name: material
   language: es
