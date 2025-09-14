@@ -32,7 +32,8 @@ plugins:
   - with-pdf:
       output_path: pdf/pruebas8.pdf
       cover: true
-      toc_title: "Pruebas"
+      cover_page: ^index.html$
+      toc_title: "Índice"
       exclude_pages:
         - ^index.html$
         - ^unidad2.html$
