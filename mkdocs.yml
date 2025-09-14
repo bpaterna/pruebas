@@ -27,9 +27,8 @@ markdown_extensions:
   - pymdownx.tabbed
 plugins:
   - with-pdf:
-      output_path: pdf/pruebas10.pdf
+      output_path: pdf/pruebas8.pdf
       cover: true
-      toc_title: "pruebas"
-      author: "Begoña"
-      cover_title: "Pruebas"
-      cover_subtitle: "Acceso a datos"
+      toc_title: "Pruebas"
+      exclude_pages:
+        - licencia.md
