@@ -27,11 +27,12 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.details
   - pymdownx.tabbed
+use_directory_urls: false
 plugins:
   - with-pdf:
       output_path: pdf/pruebas8.pdf
       cover: true
       toc_title: "Pruebas"
       exclude_pages:
-        - "docs/index.md"
-        - "docs/unidad2.md"
+        - ^index.html$
+        - ^unidad2.html$
