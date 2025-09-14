@@ -16,7 +16,7 @@ nav:
   - Inicio: index.md
   - Unidad 1: unidad1.md
   - Unidad 2: unidad2.md
-  - 📥 Descargar PDF: pdf/materiales.pdf
+  - 📥 Descargar PDF: pdf/pruebas3.pdf
 markdown_extensions:
   - admonition
   - footnotes
@@ -28,9 +28,8 @@ markdown_extensions:
   - pymdownx.tabbed
 plugins:
   - with-pdf:
-      output_path: pdf/pruebas2.pdf
+      output_path: pdf/pruebas3.pdf
       cover: true
       cover_page: portada.md
       exclude_pages:
-        - licencia.md
         - index.md
