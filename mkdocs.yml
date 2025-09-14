@@ -18,16 +18,16 @@ nav:
   - Inicio: index.md
   - Unidad 1: unidad1.md
   - Unidad 2: unidad2.md
-  - 📥 Descargar PDF: pdf/pruebas4.pdf
+ # - 📥 Descargar PDF: pdf/pruebas4.pdf
 
 # Plugins  
 plugins:
   - with-pdf:
-      output_path: pdf/pruebas4.pdf
+      output_path: pdf/pruebas5.pdf
       cover: true
       cover_page: portada.md       # Usamos portada personalizada
-      author: "Tu Nombre"
-      toc_title: "Pruebas4"
+      author: "Begoña PAterna"
+      toc_title: "Pruebas5"
       exclude_pages:
         - index.md
 
@@ -44,10 +44,6 @@ markdown_extensions:
 
 # Footer y enlaces sociales
 extra:
-  social:
-    - icon: material/file-pdf-box
-      link: pdf/pruebas4.pdf
-      name: Descargar PDF
   copyright: >
     © 2025 Tu Nombre — Publicado bajo
     <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Licencia CC BY-SA 4.0</a>.
