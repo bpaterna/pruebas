@@ -25,3 +25,10 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.details
   - pymdownx.tabbed
+plugins:
+  - with-pdf:
+      output_path: pdf/materiales.pdf
+      cover: true
+      toc_title: "Índice"
+      exclude_pages:
+        - licencia.md
