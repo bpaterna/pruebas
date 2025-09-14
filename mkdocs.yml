@@ -12,6 +12,11 @@ theme:
     - search.highlight
     - search.suggest
     - content.tabs.link
+  footer:
+    links:
+      - icon: fontawesome/brands/creative-commons
+        link: https://creativecommons.org/licenses/by-sa/4.0/
+        name: Licencia Creative Commons
 nav:
   - Inicio: index.md
   - Unidad 1: unidad1.md
