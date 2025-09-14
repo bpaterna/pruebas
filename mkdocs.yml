@@ -35,9 +35,3 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.details
   - pymdownx.tabbed
-
-# Footer y enlaces sociales
-extra:
-  copyright: >
-    © 2025 Tu Nombre — Publicado bajo
-    <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Licencia CC BY-SA 4.0</a>.
