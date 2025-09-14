@@ -6,10 +6,15 @@ Aquí iría el contenido de la **Unidad 1**.
     Puedes añadir notas, ejemplos y advertencias usando bloques de MkDocs Material.
 
 !!! note "Práctica 1. Realiza lo siguiente"
-Example of a note
+    Example of a note
 
 !!! Danger "Entrega parcial"
-Example of a note
+    Example of a note
+    Otra líea de la entrega
+    Lista:
+    - Elemento 1
+    - Elemento 2
+    Otra explicación
 
 
 ## hola
