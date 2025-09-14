@@ -27,8 +27,8 @@ markdown_extensions:
   - pymdownx.tabbed
 plugins:
   - with-pdf:
-      output_path: pdf/materiales.pdf
+      output_path: pdf/pruebas.pdf
       cover: true
-      toc_title: "Índice"
+      toc_title: "pruebas"
       exclude_pages:
         - licencia.md
