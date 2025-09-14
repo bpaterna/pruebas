@@ -5,5 +5,4 @@
   <h2 style="font-size: 24px; margin-bottom: 40px;">Curso 2025</h2>
 
   <p style="font-size: 18px;">Autor: Tu Nombre</p>
-  <p style="font-size: 16px;">Generado el {{ fecha_generacion }}</p>
 </div>
