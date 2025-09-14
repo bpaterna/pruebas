@@ -3,6 +3,7 @@ site_url: https://bpaterna.github.io/pruebas/
 site_author: Begoña Paterna
 theme:
   name: material
+  custom_dir: overrides
   language: es
   palette:
     scheme: default
@@ -32,8 +33,10 @@ plugins:
   - with-pdf:
       output_path: pdf/pruebas8.pdf
       cover: true
-      custom_template_path: index.html
+      custom_template_path: templates
       toc_title: "Índice"
       exclude_pages:
         - ^index.html$
         - ^unidad2.html$
+extra_jinja:
+  fecha_generacion: ""
