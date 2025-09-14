@@ -27,6 +27,8 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.details
   - pymdownx.tabbed
+extra_css:
+  - stylesheets/extra.css
 use_directory_urls: false
 plugins:
   - with-pdf:
