@@ -12,11 +12,6 @@ theme:
     - search.highlight
     - search.suggest
     - content.tabs.link
-  footer:
-    links:
-      - icon: fontawesome/brands/creative-commons
-        link: https://creativecommons.org/licenses/by-sa/4.0/
-        name: Licencia Creative Commons
 nav:
   - Inicio: index.md
   - Unidad 1: unidad1.md
@@ -30,3 +25,12 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.details
   - pymdownx.tabbed
+
+extra:
+  social:
+    - icon: fontawesome/brands/creative-commons
+      link: https://creativecommons.org/licenses/by-sa/4.0/
+      name: Licencia Creative Commons
+  copyright: >
+    Obra realizada por Begoña Paterna Lluch Publicada bajo licencia
+    <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Licencia CC BY-SA 4.0</a>.
