@@ -17,6 +17,7 @@ nav:
   - Inicio: index.md
   - Unidad 1: unidad1.md
   - Unidad 2: unidad2.md
+  - Unidad 3: unidad3.md
 markdown_extensions:
   - admonition
   - footnotes
@@ -32,4 +33,5 @@ plugins:
       cover: true
       toc_title: "Pruebas"
       exclude_pages:
-        - index.md
+        - "index.md"
+        - "unidad2.md"
