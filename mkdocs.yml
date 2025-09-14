@@ -1,0 +1,24 @@
+site_name: Pruebas
+site_url: https://bpaterna.github.io/pruebas/
+theme:
+  name: pru
+  language: es
+  features:
+    - navigation.instant
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - content.tabs.link
+nav:
+  - Inicio: index.md
+  - Unidad 1: unidad1.md
+  - Unidad 2: unidad2.md
+markdown_extensions:
+  - admonition
+  - footnotes
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.tabbed
