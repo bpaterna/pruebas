@@ -33,5 +33,5 @@ plugins:
       cover: true
       toc_title: "Pruebas"
       exclude_pages:
-        - "index.md"
-        - "unidad2.md"
+        - "docs/index.md"
+        - "docs/unidad2.md"
