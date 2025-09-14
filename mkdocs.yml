@@ -45,6 +45,7 @@ markdown_extensions:
 
 # Footer y enlaces sociales
 extra:
+  fecha_generacion: !!python/object/apply:datetime.date.today []
   social:
     - icon: material/file-pdf-box
       link: pdf/pruebas3.pdf
