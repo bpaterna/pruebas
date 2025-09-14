@@ -32,7 +32,7 @@ plugins:
   - with-pdf:
       output_path: pdf/pruebas8.pdf
       cover: true
-      cover_page: ^index.html$
+      custom_template_path: ^index.html$
       toc_title: "Índice"
       exclude_pages:
         - ^index.html$
