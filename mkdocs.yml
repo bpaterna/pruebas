@@ -25,7 +25,3 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.details
   - pymdownx.tabbed
-plugins:
-  - with-pdf:
-      output_path: pdf/pruebas6.pdf
-      cover: false
