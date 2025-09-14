@@ -1,7 +1,7 @@
 site_name: Pruebas
 site_url: https://bpaterna.github.io/pruebas/
 theme:
-  name: material
+  name: readthedocs
   language: es
   features:
     - navigation.instant
