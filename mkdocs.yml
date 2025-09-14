@@ -18,17 +18,16 @@ nav:
   - Inicio: index.md
   - Unidad 1: unidad1.md
   - Unidad 2: unidad2.md
-  - 📥 Descargar PDF: pdf/pruebas3.pdf
+  - 📥 Descargar PDF: pdf/pruebas4.pdf
 
 # Plugins  
 plugins:
   - with-pdf:
-      output_path: pdf/pruebas3.pdf
+      output_path: pdf/pruebas4.pdf
       cover: true
-      cover_title: "Materiales de pruebas"
-      cover_subtitle: "Curso 2025-2026"
+      cover_page: portada.md       # Usamos portada personalizada
       author: "Tu Nombre"
-      toc_title: "Pruebas"
+      toc_title: "Pruebas4"
       exclude_pages:
         - index.md
 
@@ -48,7 +47,7 @@ extra:
   fecha_generacion: !!python/object/apply:datetime.date.today []
   social:
     - icon: material/file-pdf-box
-      link: pdf/pruebas3.pdf
+      link: pdf/pruebas4.pdf
       name: Descargar PDF
   copyright: >
     © 2025 Tu Nombre — Publicado bajo
