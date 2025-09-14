@@ -3,6 +3,9 @@ site_url: https://bpaterna.github.io/pruebas/
 theme:
   name: material
   language: es
+  palette:
+    scheme: default
+    primary: pink
   features:
     - navigation.instant
     - navigation.top
