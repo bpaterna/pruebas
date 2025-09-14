@@ -2,7 +2,7 @@
 
 Aquí iría el contenido de la **Unidad 1**.
 
-!!! tip "____Prueba el código"
+!!! tip "Prueba el código"
     Puedes añadir notas, ejemplos y advertencias usando bloques de MkDocs Material.
 
 !!! note "Práctica 1. Realiza lo siguiente"
