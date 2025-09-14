@@ -26,7 +26,7 @@ plugins:
       output_path: pdf/pruebas5.pdf
       cover: true
       cover_page: portada.md       # Usamos portada personalizada
-      author: "Begoña PAterna"
+      author: "Begoña Paterna"
       toc_title: "Pruebas5"
       exclude_pages:
         - index.md
