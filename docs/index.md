@@ -9,3 +9,5 @@ Aquí encontrarás:
 
 ## prueba 2
 añado exportación a PDF
+
+**Fecha de generación:** {{ fecha_generacion | date("%d/%m/%Y") }}
