@@ -30,7 +30,6 @@ plugins:
       output_path: pdf/pruebas.pdf
       cover: true
       cover_page: portada.md
-      toc_title: "pruebas"
       exclude_pages:
         - licencia.md
         - index.md
