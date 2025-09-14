@@ -28,5 +28,8 @@ markdown_extensions:
 plugins:
   - with-pdf:
       output_path: pdf/pruebas10.pdf
-      cover: false
+      cover: true
       toc_title: "pruebas"
+      author: "Begoña"
+      cover_title: "Pruebas"
+      cover_subtitle: "Acceso a datos"
