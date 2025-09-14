@@ -26,4 +26,4 @@ prueba 2 de pdf
 otra línea
 
 
-<span style="border 1px solid #f00; background-color:#fcc;">Texto con fondo rosa y borde rojo</span>
+<span style="border:1px solid #f00; background-color:#fcc;">Texto con fondo rosa y borde rojo</span>
