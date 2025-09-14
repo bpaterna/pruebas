@@ -22,7 +22,7 @@ nav:
 # Plugins  
 plugins:
   - with-pdf:
-      output_path: pdf/pruebas5.pdf
+      output_path: pdf/pruebas6.pdf
       cover: false
   
 # Extensiones Markdown
