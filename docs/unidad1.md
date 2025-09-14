@@ -12,8 +12,11 @@ Aquí iría el contenido de la **Unidad 1**.
     Example of a note
     Otra líea de la entrega
     Lista:
+    
     - Elemento 1
+    
     - Elemento 2
+    
     Otra explicación
 
 
