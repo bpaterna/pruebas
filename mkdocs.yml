@@ -33,3 +33,4 @@ plugins:
       toc_title: "pruebas"
       exclude_pages:
         - licencia.md
+        - index.md
